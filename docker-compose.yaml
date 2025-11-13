@@ -1,0 +1,14 @@
+services:
+  expo-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    ports:
+      - "19000:19000"
+      - "19001:19001"
+      - "19002:19002"
+      - "8081:8081"
+    environment:
+      - NODE_ENV=development

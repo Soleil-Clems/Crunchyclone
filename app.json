@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "crunchy-clone",
+    "slug": "crunchy-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#17191F"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#17191F"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png",
+      "backgroundColor": "#17191F"
+    },
+
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#17191F"
+        }
+      ]
+    ],
+
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
