@@ -19,8 +19,8 @@ A modern React Native application for tracking and discovering movies and TV ser
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="./assets/images/home.png" alt="Home Screen" width="200" />
   <img src="./assets/images/login.png" alt="Login Screen" width="200" />
+  <img src="./assets/images/home.png" alt="Home Screen" width="200" />·
   <img src="./assets/images/profile.png" alt="Profile Screen" width="200" />
 </p>
 
@@ -42,8 +42,8 @@ A modern React Native application for tracking and discovering movies and TV ser
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CrunchyClone.git
-cd CrunchyClone
+git clone  git@github.com:Soleil-Clems/Crunchyclone.git
+cd Crunchyclone
 ```
 
 2. Install dependencies:
