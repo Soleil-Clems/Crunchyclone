@@ -18,17 +18,17 @@ A modern React Native application for tracking and discovering movies and TV ser
 
 ## 📱 Screenshots
 
+<p align="center">
+  <img src="./assets/images/home.png" alt="Home Screen" width="200" />
+  <img src="./assets/images/login.png" alt="Login Screen" width="200" />
+  <img src="./assets/images/profile.png" alt="Profile Screen" width="200" />
+</p>
 
-**Splash Screen**
-![Splash](./assets/images/splash.png)
-
-**Login Screen**
-![Login](./assets/images/login.png)
-
-**Home Screen**
-![Home](./assets/images/home.png)
-
-
+<p align="center">
+  <img src="./assets/images/seriedetail.png" alt="Series Detail Screen" width="200" />
+  <img src="./assets/images/searchmovie.png" alt="Search Movie Screen" width="200" />
+  <img src="./assets/images/comment.png" alt="Comments Screen" width="200" />
+</p>
 ## 🚀 Getting Started
 
 ### Prerequisites
